@@ -1,4 +1,4 @@
-# LP-em-C
+# Lógica de Programação (LP)
 
 > Repositório de Lógica de Programação em linguagem C
 
@@ -6,3 +6,5 @@ Todos os exercícios que fiz na matéria de LP, para que fiquem salvos e possam 
 
 ## 🛠️ Tecnologia utilizada:
 - C
+- Git
+- Github
